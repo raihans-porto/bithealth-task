@@ -30,6 +30,10 @@ Pasien dapat memasukkan informasi dasar (*gender*, *usia*, *gejala*) dan sistem 
 Download semua file yang sudah disediakan dari Google Drive.  
 
 ### 2. Buat virtual environment (opsional, tapi direkomendasikan):
+```bash
+python -m venv env_ai
+```
+
 - Windows
 ```powershell
 env_ai\Scripts\activate   
@@ -37,7 +41,6 @@ env_ai\Scripts\activate
 
 - Linux/Mac
 ```bash
-python -m venv env_ai
 source env_ai/bin/activate   
 ```
 
