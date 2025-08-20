@@ -27,7 +27,9 @@ Pasien dapat memasukkan informasi dasar (*gender*, *usia*, *gejala*) dan sistem 
 ## ⚙️ Instalasi & Menjalankan
 
 ### 1. Download File
-Download semua file yang sudah disediakan dari Google Drive.  
+Download semua file yang sudah disediakan dari Google Drive.
+
+https://drive.google.com/file/d/1InSbMpLQSlAhbK-uqNvnt0kL5SGGh1NA/view?usp=drive_link
 
 ### 2. Buat virtual environment (opsional, tapi direkomendasikan):
 ```bash
